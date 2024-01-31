@@ -1,3 +1,3 @@
 # portfolio
 
-Visite :- https://krushnabaria.github.io/portfolio/
+Visit :- https://krushnabaria.github.io/portfolio/
